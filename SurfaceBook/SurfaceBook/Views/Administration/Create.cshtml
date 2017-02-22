@@ -1,0 +1,88 @@
+﻿@model SurfaceBook.Models.Administration
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Content/themes/manage.css"></script>
+@{
+    ViewBag.Title = "Create";
+}
+<style>
+    div{
+        color:white;
+    }
+</style>
+
+<img id="manageimg1" style="position:relative;height:575px;width:1360px;opacity:0.3;z-index:500;" src="~/Images/manage6.png" />
+<div id="all" style="position:absolute;top:150px;right:300px;z-index:1000;">
+
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <div>
+            <fieldset>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.ProductName)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.ProductName)
+                    @Html.ValidationMessageFor(model => model.ProductName)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.Price)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.Price)
+                    @Html.ValidationMessageFor(model => model.Price)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.Introduction)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.Introduction)
+                    @Html.ValidationMessageFor(model => model.Introduction)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.TheSalesAmount)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.TheSalesAmount)
+                    @Html.ValidationMessageFor(model => model.TheSalesAmount)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.Evaluation)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.Evaluation)
+                    @Html.ValidationMessageFor(model => model.Evaluation)
+                </div>
+
+                <div class="editor-label">
+                    @Html.LabelFor(model => model.NumberOfBusinesses)
+                </div>
+                <div class="editor-label">
+                    @Html.EditorFor(model => model.NumberOfBusinesses)
+                    @Html.ValidationMessageFor(model => model.NumberOfBusinesses)
+                </div>
+                <br />
+                <p>
+                    <input style="background-color:Royalblue;" type="submit" value="Create" />
+                </p>
+            </fieldset>
+        </div>
+
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+    </div>
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

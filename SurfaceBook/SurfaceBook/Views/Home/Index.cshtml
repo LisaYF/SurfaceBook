@@ -1,0 +1,88 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<div id="slidercontainer">
+    <section id="slider">
+        <div id="slideritems" class="flexslider">
+            <ul class="slides">
+                <li>
+                    <div class="container">
+                        <div class="twelve columns">
+                            <img src="~/Images/content/slide6.png" alt="" />
+                            <div class="flex-caption">
+                                <h1>Surface Book</h1>
+                                <h2 class="slidetext1">The ultimate laptop.</h2>
+                                <p class="slidetext2">We all have greatness in us. And with the right tools, there are no limits. Be bold. Inspire. Do something special. Introducing the ultimate laptop, Surface Book.</p>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a href="~/Administration/Index" class="button orange rounded large2">Details</a>
+                                }
+                                else
+                                {
+                                    <a href="#" class="button orange rounded large2">Details</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="container">
+                        <div class="twelve columns">
+                            <img src="~/Images/content/slide5.png" alt="" />
+                            <div class="flex-caption">
+                                <h1>Surface Book</h1>
+                                <h2 class="slidetext1">Ultimate versatility.</h2>
+                                <p class="slidetext2">Surface Book transforms into three different configurations, adapting to the way that you work and the places where you create. </p>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a href="~/Administration/Index" class="button orange rounded large2">Details</a>
+                                }
+                                else
+                                {
+                                    <a href="#" class="button orange rounded large2">Details</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="container">
+                        <div class="twelve columns">
+                            <img src="~/Images/content/slide4.png" alt="" />
+                            <div class="flex-caption">
+                                <h1>Surface Book</h1>
+                                <h2 class="slidetext1">Ultimate performance.</h2>
+                                <p class="slidetext2">Surface Book is built to be a creative workhorse. Combining a 6th Gen Intel® Core™ i5 or i7 processor with up to 16GB1 of memory and an optional discrete graphics chip.</p>
+                                @if (User.IsInRole("Admin"))
+                                {
+                                    <a href="~/Administration/Index" class="button orange rounded large2">Details</a>
+                                }
+                                else
+                                {
+                                    <a href="#" class="button orange rounded large2">Details</a>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+
+    </section>
+
+</div>
+
+
+
+<script type="text/javascript">
+jQuery(window).load(function() {
+	jQuery('.flexslider').flexslider({
+	  animation: "fade",              //String: Select your animation type, "fade" or "slide"
+	  directionNav: true, //Boolean: Create navigation for previous/next navigation? (true/false)
+	  controlNav: false  //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
+	});
+});
+</script>
+

@@ -1,0 +1,68 @@
+﻿@{
+    ViewBag.Title = "HelpMe";
+}
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Help Me</title>
+</head>
+
+<body>
+    <img id="manageimg1" style="position:relative;height:575px;width:1360px;z-index:500; opacity:0.3;" src="~/Images/help.jpg" />
+    <div style="z-index:1000; position:absolute;top:100px;left:10px;">
+    
+    <h2 style="font-size:25px;color:lightblue;font-family:'Microsoft YaHei'">Feedback</h2>
+    <p style="font-size:15px;color:lightblue;font-family:'Microsoft YaHei'">
+        We strives to bring the best personal computing experience to students, <br />
+        educators, creative professionals and consumers around the world through <br />
+        its innovative hardware, software and Internet offerings. We welcomes your <br />
+        feedback on its products. Begin by selecting a product below.
+    </p>
+
+    <table style="width:30%; text-align:left; position:absolute;left:900px;top:0px;">
+        <tr>
+            <td style="font-size: 15px; color: lightblue; font-family: 'Microsoft YaHei';left:0px;">
+                Name:<br />
+                <input id="Text1" type="text" />
+            </td>
+        </tr>
+
+        <tr>
+            <td style="font-size: 15px; color: lightblue; font-family: 'Microsoft YaHei'">
+                Email:<br />
+                <input id="Text2" type="text" />
+            </td>
+        </tr>
+
+        <tr>
+            <td style="font-size: 15px; color: lightblue; font-family: 'Microsoft YaHei'">
+                PhoneNumber:
+                <input id="Text4" type="text" />
+            </td>
+        </tr>
+        <tr>
+            <td style="font-size: 15px; color: lightblue; font-family: 'Microsoft YaHei'">
+                Your Suggestion:
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <textarea id="TextArea1" rows="6" cols="5"></textarea>
+                <br />
+
+                <input style="background-color:dodgerblue;" id="Submit1" type="submit" value="submit" onclick="location='Thanks'" /><br />
+            </td>
+        </tr>
+
+    </table>
+    <p style="font-size:25px;color:white;">Please read our Unsolicited Idea Submission Policy
+        <br />
+        <br /> before you send us your feedback.</p>
+    </div>
+</body>
+</html>

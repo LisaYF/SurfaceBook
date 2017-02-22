@@ -1,0 +1,155 @@
+﻿<script type="text/javascript" src="plugins/jquery-1.8.3.js">
+</script>
+<script type="text/javascript">
+
+    function sum1() {
+        var price = document.getElementById("price").value;
+        var num1 = parseInt(document.getElementById("number1").value);
+        document.getElementById("price").value = parseInt(1499 * num1);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum2() {
+        var old1 = sum1();
+        var price = document.getElementById("price").value;
+        var num2 = parseInt(document.getElementById("number2").value);
+        document.getElementById("price").value = parseInt(499 * num2) + parseInt(old1);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum3() {
+
+        var old2 = sum2();
+        var price = document.getElementById("price").value;
+        var num3 = parseInt(document.getElementById("number3").value);
+        document.getElementById("price").value = parseInt(899 * num3) + parseInt(old2);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum4() {
+
+        var old3 = sum3();
+        var price = document.getElementById("price").value;
+        var num4 = parseInt(document.getElementById("number4").value);
+        document.getElementById("price").value = parseInt(799 * num4) + parseInt(old3);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum5() {
+
+        var old4 = sum4();
+        var price = document.getElementById("price").value;
+        var num5 = parseInt(document.getElementById("number5").value);
+        document.getElementById("price").value = parseInt(399 * num5) + parseInt(old4);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum6() {
+
+        var old5 = sum5();
+        var price = document.getElementById("price").value;
+        var num6 = parseInt(document.getElementById("number6").value);
+        document.getElementById("price").value = parseInt(399 * num6) + parseInt(old5);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum7() {
+
+        var old6 = sum6();
+        var price = document.getElementById("price").value;
+        var num7 = parseInt(document.getElementById("number7").value);
+        document.getElementById("price").value = parseInt(199 * num7) + parseInt(old6);
+        price = document.getElementById("price").value;
+        return price;
+    }
+    function sum8() {
+
+        var old7 = sum7();
+        var price = document.getElementById("price").value;
+        var num8 = parseInt(document.getElementById("number8").value);
+        document.getElementById("price").value = parseInt(299 * num8) + parseInt(old7);
+        price = document.getElementById("price").value;
+        return price;
+    }
+</script>
+
+<div style="background-color:white">
+
+    <img src="~/image/bbg.jpg" style="position:relative;height:800px;width:1360px; opacity:0.3;z-index:500;"/>
+    <table style="width:100%;z-index:1000; position:absolute;top:150px;left:0px;  padding:0;" border="0">
+        <tr>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/s2.png" onclick="location='surface1'" />
+                <p style="font-size: 25px; color: black;">Surface Book</p>
+                <b style="font-size:30px;color:black;">$1499</b>
+                <input id="number1" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum1();" style="width:80px;height:30px; background-color:skyblue;color:black;">Order</button>
+            </td>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/s4.png" onclick="location='surface2'" />
+                <p style="font-size: 25px; color: black;">Surface Pro4</p>
+                <b style="font-size:30px;color:black;">$899</b>
+                <input id="number2" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum2();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+            </td>
+            <td>
+
+                <input class="btn" name="" type="image" src="~/image/sp3.jpg" onclick="location='surface3'" />
+                <br /><br /><br />
+                <p style="font-size: 25px; color: black;position:relative">Surface 3</p>
+                <b style="font-size:30px;color:black">$499</b>
+                <input id="number3" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum3();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+
+            </td>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/s1.png" onclick="location='surface4'" />
+                <p style="font-size: 25px; color: black;">Surface Pro3</p>
+                <b style="font-size:30px;color:black">$799</b>
+                <input id="number4" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum4();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+
+            </td>
+        </tr>
+        <tr style="z-index:1000">
+            <td>
+                <input class="btn" name="" type="image" src="~/image/l.png" onclick="location='surface5'" />
+                <p style="font-size: 25px; color: black;">Lumia</p>
+                <b style="font-size:30px;color:black">$399</b>
+                <input id="number5" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum5();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+            </td>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/b.png" onclick="location='surface6'">
+                <br /><br />
+                <p style="font-size: 25px; color: black;">Band</p>
+                <b style="font-size:30px;color:black">$399</b>
+                <input id="number6" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum6();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+
+            </td>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/x.png" onclick="location='surface7'">
+                <p style="font-size: 25px; color: black;">Xbox</p>
+                <b style="font-size:30px;color:black">$299</b>
+                <input id="number7" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum7();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+
+            </td>
+            <td>
+                <input class="btn" name="" type="image" src="~/image/h.png" onclick="location='surface8'" />
+                <p style="font-size: 25px; color: black;">HoloLens</p>
+                <b style="font-size:30px;color:black">$199</b>
+                <input id="number8" value="1" type="number" name="quantity" min="0" max="100" spry:default="0" style="width:60px;height:30px;">
+                <button onclick="sum8();" style="width:80px;height:30px;background-color:skyblue;">Order</button>
+
+            </td>
+        </tr>
+    </table>
+</div>
+<div id="divfix" style="background-color:skyblue; z-index:1000; position:fixed;top:95px;left:0px; height:90px;width:250px;">
+    <span style="font-size:24px;color:white;font-family:'Comic Sans MS', cursive;">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Your Total Price:
+    </span><br /><br />
+    <input type="text" id="price" style="position:absolute; height:50px;width:250px;left:0px;top:25px; font-size:24px; border-color:skyblue; font-family:'Comic Sans MS', cursive; background-color:skyblue; color:white;" />
+</div>

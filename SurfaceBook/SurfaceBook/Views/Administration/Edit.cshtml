@@ -1,0 +1,87 @@
+﻿@model SurfaceBook.Models.Administration
+
+@{
+    ViewBag.Title = "Edit";
+}
+<style>
+    div {
+        color: white;
+    }
+</style>
+<img id="manageimg1" style="position:relative;height:575px;width:1360px;opacity:0.3;z-index:500;" src="~/Images/manage8.jpg" />
+<div id="all" style="position:absolute;top:150px;left:800px;z-index:1000;">
+
+  
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+        <fieldset>
+         
+            @Html.HiddenFor(model => model.Id)
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.ProductName)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.ProductName)
+                @Html.ValidationMessageFor(model => model.ProductName)
+            </div>
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.Price)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Price)
+                @Html.ValidationMessageFor(model => model.Price)
+            </div>
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.Introduction)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Introduction)
+                @Html.ValidationMessageFor(model => model.Introduction)
+            </div>
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.TheSalesAmount)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.TheSalesAmount)
+                @Html.ValidationMessageFor(model => model.TheSalesAmount)
+            </div>
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.Evaluation)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.Evaluation)
+                @Html.ValidationMessageFor(model => model.Evaluation)
+            </div>
+
+            <div class="editor-label" style="color:skyblue;">
+                @Html.LabelFor(model => model.NumberOfBusinesses)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.NumberOfBusinesses)
+                @Html.ValidationMessageFor(model => model.NumberOfBusinesses)
+            </div>
+            <br />
+            <p>
+                <input type="submit" value="Save" />
+            </p>
+        </fieldset>
+    }
+
+    <div>
+        @Html.ActionLink("Back to List", "Index")
+    </div>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }
+
+
+</div>

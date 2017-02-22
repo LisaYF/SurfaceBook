@@ -1,0 +1,29 @@
+﻿@model SurfaceBook.Models.LocalPasswordModel
+@{
+    ViewBag.Title = "Manage";
+}
+
+<header>
+    <link rel="stylesheet" type="text/css" href="~/Content/login.css" />
+</header>
+
+<section id="content">
+
+    <p class="message-success">@ViewBag.StatusMessage</p>
+
+    <p>You're logged in as: <strong>@User.Identity.Name</strong>.</p>
+
+    @if (ViewBag.HasLocalPassword)
+    {
+        @Html.Partial("_ChangePasswordPartial")
+    }
+    else
+    {
+        @Html.Partial("_SetPasswordPartial")
+    }
+
+    </section>
+
+    @section Scripts {
+        @Scripts.Render("~/bundles/jqueryval")
+    }

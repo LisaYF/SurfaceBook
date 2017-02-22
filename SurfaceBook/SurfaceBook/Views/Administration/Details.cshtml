@@ -1,0 +1,65 @@
+﻿@model SurfaceBook.Models.Administration
+
+@{
+    ViewBag.Title = "Details";
+}
+<style>
+    div {
+        color: white;
+    }
+</style>
+<img id="manageimg1" style="position:relative;height:575px;width:1360px;opacity:0.3;z-index:500;" src="~/Images/manage7.png" />
+<div id="all" style="position:absolute;top:120px;left:600px;z-index:1000;font-size:15px">
+
+    <h2>Details</h2>
+
+    <fieldset>
+        <legend>Administration</legend>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.ProductName)
+        </div>
+        <div class="display-field" >
+            @Html.DisplayFor(model => model.ProductName)
+        </div>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.Price)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Price)
+        </div>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.Introduction)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Introduction)
+        </div>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.TheSalesAmount)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.TheSalesAmount)
+        </div>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.Evaluation)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.Evaluation)
+        </div>
+
+        <div class="display-label" style="color:skyblue;">
+            @Html.DisplayNameFor(model => model.NumberOfBusinesses)
+        </div>
+        <div class="display-field">
+            @Html.DisplayFor(model => model.NumberOfBusinesses)
+        </div>
+    </fieldset>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+ </p>
+</div>

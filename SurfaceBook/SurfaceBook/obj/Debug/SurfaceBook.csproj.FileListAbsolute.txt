@@ -1,0 +1,616 @@
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+C:\Users\Lisa\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\DRZZ1\Documents\Tencent Files\314654395\FileRecv\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+C:\Users\Lisa\Desktop\新建文件夹 (5)\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.Data.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\bin\fr-FR\SurfaceBook.resources.dll
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.resources
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.fr-FR.resources
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csproj.GenerateResource.Cache
+C:\Users\Lisa\Desktop\Lisa\SurfaceBook\SurfaceBook\obj\Debug\fr-FR\SurfaceBook.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll.config
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\SurfaceBook.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\SurfaceBook.pdb
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\fr-FR\SurfaceBook.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Antlr3.Runtime.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\EntityFramework.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Infrastructure.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Spatial.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Optimization.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Razor.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\WebGrease.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\EntityFramework.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Newtonsoft.Json.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Net.Http.Formatting.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Helpers.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.WebHost.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Mvc.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Razor.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Deployment.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.WebPages.Razor.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\WebMatrix.Data.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\WebMatrix.WebData.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.AspNet.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.Core.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OAuth.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Web.Http.OData.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Data.Edm.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\Microsoft.Data.OData.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\System.Spatial.xml
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\EntityFramework.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Helpers.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Mvc.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Optimization.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Razor.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.Data.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Web.WebPages.OAuth.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\WebMatrix.WebData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Web.Http.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\de\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\es\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\fr\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\it\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ja\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ko\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ru\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\de\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\es\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\fr\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\it\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ja\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ko\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\ru\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hans\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\bin\zh-Hant\System.Spatial.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csprojResolveAssemblyReference.cache
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.resources
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.fr-FR.resources
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csproj.GenerateResource.Cache
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\fr-FR\SurfaceBook.resources.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.dll
+F:\QQ文件存储\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.pdb
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\bin\fr-FR\SurfaceBook.resources.dll
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.resources
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.Resources.AppResources.fr-FR.resources
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\SurfaceBook.csproj.GenerateResource.Cache
+C:\Users\DRZZ1\Desktop\SurfaceBook\SurfaceBook\obj\Debug\fr-FR\SurfaceBook.resources.dll

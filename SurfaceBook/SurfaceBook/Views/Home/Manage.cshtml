@@ -1,0 +1,36 @@
+﻿@model SurfaceBook.Models.Administration
+
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="~/Content/themes/manage.css"></script>
+<div id="div1">
+   
+    <img id="manageimg1" style="position:relative;height:575px;width:1290px;opacity:0.5" src="~/Images/manage1.jpg" />
+  
+    <div style="z-index:1000;position: fixed; right:0px;top:150px;width:100px;height:300px;font-size:large;color:white;">
+        &nbsp; <button style="z-index:1000;background-color:darkslateblue;color:white;width:100px;height:30px;"><b><a href="~/Administration/Index"> List</a></b></button><br /><br /><br />
+        &nbsp;
+        @if (User.IsInRole("Admin"))
+        { <button style="z-index:1000;background-color:darkslateblue;color:white;width:100px;height:30px;"><b><a href="~/Administration/Create">Create</a></b></button><br /><br /><br />
+        }
+    </div>
+</div>
+<div id="div2">
+  
+    <img src="~/Images/manage2.jpg" style="position:relative;width:1290px;opacity:0.5" />
+ 
+</div>
+<div id="div4">
+    @*<button id="btn3">*@
+    <img src="~/Images/manage5.jpg" style="position:relative;width:1290px;opacity:0.5" />
+    @*</button>*@
+</div>
+
+<div id="div3">
+    @*<button id="btn4">*@
+    <img src="~/Images/manage3.jpg" style="position:relative;width:1290px;opacity:0.5" />
+    @*</button>*@
+</div>
+

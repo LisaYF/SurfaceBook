@@ -1,0 +1,54 @@
+            article p {
+            color: navy;
+            font-size: 15px;
+            font-family: arial;
+            width: 1100px;
+        }
+       body {
+            background: url(background.gif) repeat-x #aacf43;
+		background-color:lightgrey;
+		margin:0px auto;
+		text-align:left;
+		}
+        details {
+            color: navy;
+            font-family: Script MT Bold;
+            font-size: 15px;
+        }
+        H1 {
+            font-family: Script MT Bold;
+            color: navy;
+            font-size: 20px;
+            }
+            
+        details UL {
+            color: navy;
+            font-size: 15px;
+        }
+        
+
+#toplink{
+color:navy;
+width:700px;
+height:104px;
+float:right;
+text-align:right;
+}
+NAV a:link{
+color:white;
+}
+NAV a:visited{
+color:white;
+} 
+NAV a:hover{ 
+color: red; 
+} 
+NAV A{
+display: inline;
+text-decoration: none;
+color:white;
+margin-right:20px;
+}
+
+
+        
